@@ -9,6 +9,9 @@ A text editor that runs in the browser. The app will be a single-page applicatio
 
 [GitHub](https://github.com/Babylex710/text-editor)
 
+Deployed App https://text-editor-index.herokuapp.com/
+
+
 ## Screenshot
 
 ![alt screenshot](./client/src/images/jate.png)
